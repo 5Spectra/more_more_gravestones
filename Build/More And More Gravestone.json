@@ -1,0 +1,13 @@
+{
+"companyName": "Andre.Inc",
+"productName": "LD42-MoreMoreGraveyards",
+"dataUrl": "More And More Gravestone.data.unityweb",
+"asmCodeUrl": "More And More Gravestone.asm.code.unityweb",
+"asmMemoryUrl": "More And More Gravestone.asm.memory.unityweb",
+"asmFrameworkUrl": "More And More Gravestone.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
